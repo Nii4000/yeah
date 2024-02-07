@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+}
+h1{
+    font: weight 300px;; 
+}
+ 
+.name{
+    font-weight: 200;
+}
+
+h2{
+    font: weight 2px;
+}
+p{
+    font-weight: 200; color: black;
+}
+
+#red{
+color: red;
+}
+#orange{
+    color:orange
+}
+#purple{
+    color: purple;
+}
+img{
+height: fit-content;
+width: fit-content;
+}
+a{
+    text-align: center;
+}
